@@ -5,12 +5,12 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/fatih/color"
 	"github.com/contractshark/byzn/api"
 	"github.com/contractshark/byzn/cli"
 	"github.com/contractshark/byzn/golang"
 	"github.com/contractshark/byzn/javascript"
 	"github.com/contractshark/byzn/language"
+	"github.com/fatih/color"
 )
 
 func main() {
